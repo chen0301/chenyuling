@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Chen Yuling"
 title_separator          : "-"
 name                     : &name "Chen Yuling"
-description              : &description "Statistics\Data Science"
-url                      : "https://chen0301.github.io/chenyuling"
-baseurl                  : "/chenyuling"
-repository               : "chen0301.github.io/chenyuling"
+description              : &description "personal description"
+url                      : https://chen0301.github.io
+baseurl                  : "/chenyuling/"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chen Yuling"
-  pronouns         : "She/Her"  
-  bio              : "Statistics\Data Science"
+  pronouns         : "she/her"  
+  bio              : "Statistics/Data Science"
   location         : "China"
   employer         : "Southwest Jiaotong University"
   uri              : # URL
