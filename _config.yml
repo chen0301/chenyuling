@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Chen Yuling"
 description              : &description "personal description"
 url                      : https://chen0301.github.io
-baseurl                  : "/chenyuling/"
+baseurl                  : /chenyuling/
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
