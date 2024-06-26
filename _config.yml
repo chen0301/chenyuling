@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Chen Yuling"
 description              : &description "Statistics\Data Science"
 url                      : "https://chen0301.github.io"
-baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/chenyuling"
 repository               : "chen0301.github.io/chenyuling"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
